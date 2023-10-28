@@ -1,5 +1,9 @@
 # detectron2-testing
-Machine learning testing
+
+Machine learning testing on personal AWS SageMaker account
+
+![image](https://github.com/Mike11199/detectron2-testing/assets/91037796/6a020ac5-5c93-47ec-939d-4f86b085a51f)
+
 
 ![image](https://github.com/Mike11199/detectron2-testing/assets/91037796/80a9e1f6-5ff1-4432-b775-d0ce8c43ceea)
 ![image](https://github.com/Mike11199/detectron2-testing/assets/91037796/02b61499-9dd6-4e9d-a33d-4d4e99ebc9bb)
