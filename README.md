@@ -1,4 +1,8 @@
-# detectron2-testing
+# detectron2-video-testing-pre-trained
+
+https://www.youtube.com/watch?v=h1MykeoDTn0
+
+# detectron2-image-testing-pre-trained
 
 - Machine learning on my personal AWS SageMaker account.
 
