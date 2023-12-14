@@ -2,6 +2,9 @@
 
 https://www.youtube.com/watch?v=h1MykeoDTn0
 
+
+![image](https://github.com/Mike11199/GIFs/blob/main/detectron2videotest.gif )
+
 # detectron2-image-testing-pre-trained
 
 - Machine learning on my personal AWS SageMaker account.
