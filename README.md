@@ -5,6 +5,15 @@ https://www.youtube.com/watch?v=h1MykeoDTn0
 
 ![image](https://github.com/Mike11199/GIFs/blob/main/detectron2videotest.gif )
 
+![image](https://github.com/Mike11199/detectron2-testing/assets/91037796/c5842079-443d-424d-9446-7e45531290fa)
+![image](https://github.com/Mike11199/detectron2-testing/assets/91037796/18e08663-bdfc-4ffb-85a4-cd00b5141821)
+![image](https://github.com/Mike11199/detectron2-testing/assets/91037796/8ebfdc76-4da1-4d25-b572-75ce312d50d3)
+
+
+
+
+
+
 # detectron2-image-testing-pre-trained
 
 - Machine learning on my personal AWS SageMaker account.
