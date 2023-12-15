@@ -5,12 +5,9 @@ https://www.youtube.com/watch?v=h1MykeoDTn0
 
 ![image](https://github.com/Mike11199/GIFs/blob/main/detectron2videotest.gif )
 
-![image](https://github.com/Mike11199/detectron2-testing/assets/91037796/c5842079-443d-424d-9446-7e45531290fa)
-![image](https://github.com/Mike11199/detectron2-testing/assets/91037796/18e08663-bdfc-4ffb-85a4-cd00b5141821)
-![image](https://github.com/Mike11199/detectron2-testing/assets/91037796/8ebfdc76-4da1-4d25-b572-75ce312d50d3)
-
-
-
+![image](https://github.com/Mike11199/detectron2-testing/assets/91037796/7e00a78f-7abd-4aaf-81e3-fbe156ebe61f)
+![image](https://github.com/Mike11199/detectron2-testing/assets/91037796/161231d9-37c8-4c6f-898b-92cb706b616b)
+![image](https://github.com/Mike11199/detectron2-testing/assets/91037796/c6d8fb2f-3735-466f-8465-c7a67b4ee187)
 
 
 
