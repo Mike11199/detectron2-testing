@@ -6,13 +6,17 @@
 - Segmentation Mask Test
   - https://youtube.com/shorts/reoHAhDNXyA
 
-- Takes about 15-30 minutes to process the video in a Jupyter Lab Notebook, using a ml.t3.medium AWS SageMaker instance.
+- Takes about 15-20 minutes to process the video in a Jupyter Lab Notebook, using a ml.t3.medium AWS SageMaker instance.
 - This is due to the video containg over 500 frames that need to be processed.
-- Was able to draw the segmentation masks by looping manually over each pixel in the image with cv2 and manually blending the alpha values of a class color and the initial rgb color with a blend if the mask array was true for that particular pixel.  Using the built in detectron2 functions for boundary boxes and masks did not work when processing with output.write with cv2 for video.
+- Segmentation masks are drawn by looping manually over each pixel in the image with a nested for loop, and manually blending the alpha values of a class color and the initial rgb color if the mask array index corresponding to that pixel is set to true - indicating an object's location.
 
 <br />
 
+![image](https://github.com/Mike11199/GIFs/blob/main/detectron2segmask.gif)
 ![image](https://github.com/Mike11199/GIFs/blob/main/detectron2videotest.gif )
+
+<br />
+
 ![image](https://github.com/Mike11199/detectron2-testing/assets/91037796/7e00a78f-7abd-4aaf-81e3-fbe156ebe61f)
 ![image](https://github.com/Mike11199/detectron2-testing/assets/91037796/161231d9-37c8-4c6f-898b-92cb706b616b)
 ![image](https://github.com/Mike11199/detectron2-testing/assets/91037796/c6d8fb2f-3735-466f-8465-c7a67b4ee187)
