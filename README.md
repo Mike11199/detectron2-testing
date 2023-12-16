@@ -1,4 +1,4 @@
-# detectron2-video-testing-pre-trained
+# Test of Pre-Trained Detectron2 Model on Video
 
 - Boundary Box Video Test:
   - https://www.youtube.com/watch?v=h1MykeoDTn0
@@ -6,8 +6,9 @@
 - Segmentation Mask Test
   - https://youtube.com/shorts/reoHAhDNXyA
 
+- Used default model zoo weights instead of training on a COCO training/test/validation set - which I have done previously.  
 - Takes about 15-20 minutes to process the video in a Jupyter Lab Notebook, using a ml.t3.medium AWS SageMaker instance.
-- This is due to the video containg over 500 frames that need to be processed.
+- This is due to the video containing over 500 frames that need to be processed.
 - Segmentation masks are drawn by looping manually over each pixel in the image with a nested for loop, and manually blending the alpha values of a class color and the initial rgb color if the mask array index corresponding to that pixel is set to true - indicating an object's location.
 
 <br />
