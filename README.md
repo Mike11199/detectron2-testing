@@ -4,7 +4,7 @@
   - https://www.youtube.com/watch?v=h1MykeoDTn0
 
 - Segmentation Mask Test
-  - https://youtube.com/shorts/reoHAhDNXyA
+  - https://www.youtube.com/watch?v=reoHAhDNXyA
 
 - Used default model zoo weights instead of training on a COCO training/test/validation set - which I have done previously.  
 - Takes about 15-20 minutes to process the video in a Jupyter Lab Notebook, using a ml.t3.medium AWS SageMaker instance.
