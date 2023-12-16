@@ -152,14 +152,10 @@ def inference_on_video(video_path):
 
     # Open the video
     video_capture = cv2.VideoCapture(video_path)
-    print('what???')
 
-    while True:
-        print('what?222??')
+    while True:        
         # Read a frame from the video
         ret, frame = video_capture.read()
-
-        print('what?2343422??')
 
         # Perform inference on the frame
         outputs = predictor(frame)
